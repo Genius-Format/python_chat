@@ -3,7 +3,7 @@ The codes are free for all, you can use it for whatever means you want.
 This chat program requires you to have python 2.x installed, python 3.x won't work.
 
 FIRST: CONFIGURE YOUR PROGRAM!
-1) install win32gui at http://sourceforge.net/projects/pywin32/files/pywin32/Build%20218/
+1) install win32gui at https://github.com/mhammond/pywin32/releases
 
 2) install pygame (http://www.pygame.org/download.shtml)
 
